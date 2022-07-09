@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham.
-- 🎓 I'm Currently a 3rd Year CS Undergrad at National Institute of Technology, Kurukshetra.
+- 🎓 I'm Currently a 3rd Year CSE Undergrad at National Institute of Technology, Kurukshetra.
 - 👀 I’m interested in Problem Solving as well as Web Development.
 - 😎 I have good idea and hands-on experience of designing and developing Fully responsive static frontend webpages.
 - 🌱 I’m currently learning various basic stacks of Backend development and some frameworks of frontend development.
